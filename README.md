@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Singh Lohiya</h1>
+<h3 align="center">A Passionate Software Engineer from India</h3>
+
+![news24](https://user-images.githubusercontent.com/115187902/230766666-f127a7c0-97d3-499d-8e68-2d670c63a9ef.gif)
+
 
 <!--
 **AmanAwadhiya/AmanAwadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
