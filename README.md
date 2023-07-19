@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Awadhiya</h1>
+<h1 align="center">Hi, I'm Aman Awadhiya</h1>
 <h3 align="center">A Passionate Engineer from India</h3>
 
 ![news24](https://user-images.githubusercontent.com/115187902/230766666-f127a7c0-97d3-499d-8e68-2d670c63a9ef.gif)
